@@ -225,7 +225,7 @@ p{
 #hero .hero{
     max-width: 1200px;
     margin: 0 auto;
-    padding:  300px;
+    padding:0 50px;
     justify-content: flex-start;
 }
 #hero h1{
